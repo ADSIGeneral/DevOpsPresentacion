@@ -30,4 +30,4 @@ jobs:
         run: echo Hello, world!
 
       - name: Run a second-line script
-        run: echo Hola, Karina
+        run: echo Hola, Karina Analisis de Diseño
